@@ -1,0 +1,30 @@
+.pad{
+  margin-left: 15px;
+  font-size: 0.85em;
+  margin-right: 10px;
+  
+}
+.head{
+  font-size: 1.3em;
+  font-weight: 600;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+thead {
+  background-color: #e1dada; /* Light gray background color */
+}
+
+th {
+  padding: 5px;
+  padding-right: 20px;
+  margin-right: 150px;
+  text-align: left;
+  border-bottom: 1px solid #eedfdf; /* Bottom border for each header cell */
+  font-size: 1.2em;
+}
+
+/* Optional: Add margin to the top of the table for spacing */
+table {
+  margin-top: 20px;
+}
+

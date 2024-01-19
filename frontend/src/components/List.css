@@ -1,0 +1,49 @@
+/* Card styling */
+.card-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+/* List.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.top-container {
+    margin-bottom: 20px;
+}
+
+.pad {
+    margin-left: 15px;
+    font-size: 0.85em;
+    margin-right: 10px;
+
+}
+
+.head {
+    font-size: 1.3em;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+/* Additional styling for table headers and rows if needed */
